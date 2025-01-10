@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "o",
+                "Name": "Leo"
+            }
+        ],
+        "Category": "",
+        "Description": "Splash screen with ChadyOS wallpaper and Black and White loading icon",
+        "Id": "Cachy.Splash.Chad.BW",
+        "License": "GPLv3",
+        "Name": "Cachy Splash Chad BW",
+        "Website": "o"
+  },
+  "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+  "X-Plasma-APIVersion": "2",
+  "X-Plasma-MainScript": "default"
+}
