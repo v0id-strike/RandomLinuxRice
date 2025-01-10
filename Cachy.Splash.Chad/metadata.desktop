@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Name=Cachy Splash Chad
+
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-PluginInfo-License=GPLv3+
+X-KDE-PluginInfo-Name=Cachy.Splash.Chad
+X-KDE-PluginInfo-Version=2.0
+X-Plasma-MainScript=defaults
+
